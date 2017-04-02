@@ -6,4 +6,4 @@ print 'Versiunea:', setari.versiunea
 print 'Autor:', setari.autor
 print 'Data:', setari.data
 
-helpers.explica_sensul('universitate')
+helpers.explica_cuvintul('universitate')
