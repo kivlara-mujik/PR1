@@ -1,0 +1,1 @@
+http.content_type=="image/jpeg"

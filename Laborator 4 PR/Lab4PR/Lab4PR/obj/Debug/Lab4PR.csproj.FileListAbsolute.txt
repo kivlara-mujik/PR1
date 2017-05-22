@@ -1,0 +1,80 @@
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe.config
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\bin\Debug\Lab4PR.pdb
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\bin\Debug\Mail.dll
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\bin\Debug\OpenPop.dll
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\bin\Debug\Mail.xml
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\bin\Debug\OpenPop.xml
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Form1.resources
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.FormSendMail.resources
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.HTMLBodyForm.resources
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Properties.Resources.resources
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.ShowAllMailsForm.resources
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csproj.GenerateResource.Cache
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.exe
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.pdb
+C:\Users\Petru\Documents\Visual Studio 2015\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csprojResolveAssemblyReference.cache
+D:\Projects\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe.config
+D:\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.exe
+D:\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.pdb
+D:\Projects\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe
+D:\Projects\Lab4PR\Lab4PR\bin\Debug\Lab4PR.pdb
+D:\Projects\Lab4PR\Lab4PR\bin\Debug\Mail.dll
+D:\Projects\Lab4PR\Lab4PR\bin\Debug\OpenPop.dll
+D:\Projects\Lab4PR\Lab4PR\bin\Debug\Mail.xml
+D:\Projects\Lab4PR\Lab4PR\bin\Debug\OpenPop.xml
+D:\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csprojResolveAssemblyReference.cache
+D:\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Form1.resources
+D:\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.FormSendMail.resources
+D:\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.HTMLBodyForm.resources
+D:\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Properties.Resources.resources
+D:\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.ShowAllMailsForm.resources
+D:\Projects\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csproj.GenerateResource.Cache
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe.config
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\obj\Debug\Lab4PR.exe
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\obj\Debug\Lab4PR.pdb
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\bin\Debug\Lab4PR.pdb
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\bin\Debug\Mail.dll
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\bin\Debug\OpenPop.dll
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\bin\Debug\Mail.xml
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\bin\Debug\OpenPop.xml
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csprojResolveAssemblyReference.cache
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Form1.resources
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\obj\Debug\Lab4PR.FormSendMail.resources
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\obj\Debug\Lab4PR.HTMLBodyForm.resources
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Properties.Resources.resources
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\obj\Debug\Lab4PR.ShowAllMailsForm.resources
+D:\Univer(UTM)\Anul-III\Sem_II\PR\Prog\Lab5\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csproj.GenerateResource.Cache
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe.config
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\obj\Debug\Lab4PR.exe
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\obj\Debug\Lab4PR.pdb
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\bin\Debug\Lab4PR.pdb
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\bin\Debug\Mail.dll
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\bin\Debug\OpenPop.dll
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\bin\Debug\Mail.xml
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\bin\Debug\OpenPop.xml
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csprojResolveAssemblyReference.cache
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Form1.resources
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\obj\Debug\Lab4PR.FormSendMail.resources
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\obj\Debug\Lab4PR.HTMLBodyForm.resources
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Properties.Resources.resources
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\obj\Debug\Lab4PR.ShowAllMailsForm.resources
+C:\Users\ALEX\Desktop\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csproj.GenerateResource.Cache
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe.config
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\obj\Debug\Lab4PR.exe
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\obj\Debug\Lab4PR.pdb
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\bin\Debug\Lab4PR.exe
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\bin\Debug\Lab4PR.pdb
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\bin\Debug\Mail.dll
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\bin\Debug\OpenPop.dll
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\bin\Debug\Mail.xml
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\bin\Debug\OpenPop.xml
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csprojResolveAssemblyReference.cache
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Form1.resources
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\obj\Debug\Lab4PR.FormSendMail.resources
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\obj\Debug\Lab4PR.HTMLBodyForm.resources
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\obj\Debug\Lab4PR.Properties.Resources.resources
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\obj\Debug\Lab4PR.ShowAllMailsForm.resources
+C:\Users\ALEX\Desktop\Laborator 4 PR\Lab4PR\Lab4PR\obj\Debug\Lab4PR.csproj.GenerateResource.Cache
